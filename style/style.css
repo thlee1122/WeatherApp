@@ -1,0 +1,77 @@
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.input-group {
+	margin: 20px 0px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.input-group .form-control, .btn-secondary {
+	height: 50px;
+}
+
+
+svg {
+	height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+	height: 200px;
+	width: 250px;
+}
+
+/*Navigation bar */
+
+.nav {
+	list-style: none;
+}
+
+.weather-logo {
+	margin-top: -20px;
+}
+
+.nav ul {
+	display: inline;
+}
+
+.nav li {
+	display: inline;
+	padding-right: 20px;
+}
+
+.nav-item {
+	font-size: 20px;
+}
+
+.nav-item:hover {
+	cursor: pointer;
+}
+
+.nav-title {
+	font-size: 40px
+}
+
+#first-item {
+	padding-left: 444px;
+}
+
+/* Message Form */
+
+.message-form {
+	margin-top: 50px;
+}
+
+#message-form-title {
+	font-size: 80px;
+	text-align: center;
+	color: gray;
+}
+
+.form-control {
+	text-align: center;
+	color: black;
+}
+

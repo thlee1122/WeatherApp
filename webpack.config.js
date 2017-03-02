@@ -1,6 +1,8 @@
 module.exports = {
   entry: [
-    './src/index.js'
+    './src/index.js',
+    'script!jquery/dist/jquery.min.js',
+    'script!foundation-sites/dist/foundation.min.js'
   ],
   output: {
     path: __dirname,
